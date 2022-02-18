@@ -15,8 +15,8 @@ USERNAME = "test@gmail.com"
 PASSWORD = "şifre"
 
 #Randevu Sahibi Bilgileri 
-name = "name"
-surname = "surname"
+name = "name"  #küçük ingilizce harf kullanın
+surname = "surname" #küçük ingilizce harf kullanın
 gender = "Male" #Male, Female
 dob = "01011990"    # 01/01/1990 için '/' kullanmadan 01011990 olarak giriniz
 nation = "TURKEY"
