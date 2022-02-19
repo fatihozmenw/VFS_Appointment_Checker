@@ -31,7 +31,7 @@ VFS_GLOBAL_SUB_CATEGORY= ["Work permit", "Work permit", "Business", "Work permit
 #Her alan seçildiğinde ekrandaki yüklenme arasında geçen zaman eğer sistem yavaşsa artırılabilir yoksa bazı alanları belirtilen sürede bulamaz ise arama aksayabilir 
 RESPOND_TIME_IN_SECONDS = 2 
 #Sistem ilk açıldığında geçen süre eğer 6 belirlenmisse login ekranından giriş yapıldığında XX:XX:01 olacak şekilde ayarlandı
-DELAY = 5
+DELAY = 6
 
 #Alarm süresi
 ALARM_DURATION_IN_SECONDS = 60
